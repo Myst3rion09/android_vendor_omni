@@ -1,12 +1,9 @@
 # Additional apps
 PRODUCT_PACKAGES += \
-    MonthCalendarWidget \
     OpenDelta \
     OmniSwitch \
-    Chromium \
     OmniJaws \
     OmniStyle \
-    QuickSearchBox \
     OmniClockOSS \
     MusicFX \
     audio_effects.conf \
@@ -46,6 +43,3 @@ PRODUCT_BOOT_JARS += telephony-ext
 PRODUCT_PACKAGES += \
     PixelTheme \
     Stock
-
-# for easter fun
-#PRODUCT_PACKAGES += EggGame
